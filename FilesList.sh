@@ -1,4 +1,4 @@
-#!/bin/bahs
+#!/bin/bash
 
 Directory=$1 
 
